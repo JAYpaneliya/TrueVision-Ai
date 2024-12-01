@@ -11,7 +11,7 @@ import tempfile
 import pygame
 
 # Set the Gemini API key directly (not recommended for security reasons)
-genai.configure(api_key="AIzaSyBpBmyOZ1bF2zKWrTU-cyWw2XDLJFVHmpc")
+genai.configure(api_key="Add_Your_API_Key_Here")
 
 # Load environment variables
 from dotenv import load_dotenv
